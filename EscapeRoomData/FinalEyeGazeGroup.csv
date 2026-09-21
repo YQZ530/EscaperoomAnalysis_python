@@ -1,0 +1,7 @@
+userID,GroupID,AreaName,ParentName,dummy
+1,1.0,['OfficeSet'],['OfficeTableDrawer'],0
+2,1.0,['OfficeSet'],['OfficeChairGroup'],0
+3,1.0,['CabinArea'],['CabinetDoors'],0
+4,1.0,['CabinArea'],['CabinetDoors'],0
+5,0.0,['CabinArea'],['CabinetDoors'],0
+0,-1.0,,,0

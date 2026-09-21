@@ -1,0 +1,1 @@
+ { "EyeGaze_Features": { "Fixation":true, "SumDur":false, "StdDur":false, "AvgDur":false, "NumFixation":true}, "EyeGaze_Metric": "Euclidean", "EyeGaze_Algo":  "KMean", "tarEvtType" : "2", "minFixation" : "100", "NumCluster" : "2" }

@@ -1,0 +1,1 @@
+ { "SimpleGraphSetting": [{"Attribute":0,"Label":"DifficultyRating"},{"Attribute":1,"Label":"ScarinessRating"},{"Attribute":2,"Label":"FunRating"},{"Attribute":3,"Label":"GameplayResult"},{"Attribute":4,"Label":"GameplayDur"}], "graphType" : "0" , "X_Axis" :"Users" , "Y_Axis" :"Rating Scores/Time(s)" }
